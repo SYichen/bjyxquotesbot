@@ -49,8 +49,12 @@ def tweet_quote():
 
 	while True:
 		tweet = createTweet()
-		api.update_status(tweet)
-		time.sleep(interval)
+		try:
+			api.update_status(tweet)
+			time.sleep(interval)
+		except Exception as e:
+			print(e)
+			time.sleep(10)
 
 if __name__ == "__main__":
 	tweet_quote()
