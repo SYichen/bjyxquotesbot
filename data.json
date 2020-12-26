@@ -3,14 +3,14 @@
 		{	
 			"id": 0,
 			"type": "single",
-			"quote": "Zhan-ge! Didi ai ni!",
+			"quote": "dd: Zhan-ge! Didi ai ni!",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 1,
 			"type": "single",
-			"quote": "Are you even human, Wang Yibo?",
+			"quote": "gg: Are you even human, Wang Yibo?",
 			"who": "xz"
 		},
 
@@ -24,7 +24,7 @@
 		{	
 			"id": 3,
 			"type": "single",
-			"quote": "That's enough~ gouzaizai",
+			"quote": "gg: That's enough~ gouzaizai",
 			"who": "xz"
 		},
 
@@ -59,14 +59,14 @@
 		{	
 			"id": 8,
 			"type": "single",
-			"quote": "Zhan-ge! I love you!",
+			"quote": "dd: Zhan-ge! I love you!",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 9,
 			"type": "dialogue",
-			"quote": "dd: What did Zhan-ge eat today? I asked you what you ate today.\ngg: Wrong wrong wrong~ I was wrong~\ndd: Ge, what did you eat today?\ngg: Go away\ndd: What did Xiao-laoshi eat today?\ngg: Go away. Lao Wang I was wrong, Lao Wang I'll eat later, go away",
+			"quote": "dd: What did Zhan-ge eat today? I asked you what you ate today.\ngg: Wrong wrong wrong~ I was wrong~\ndd: Ge, what did you eat today?\ngg: Go away\ndd: What did Xiao-laoshi eat today?\ngg: Go away. Lao Wang I was wrong, Lao Wang, I'll eat later, go away",
 			"who": ""
 		},
 
@@ -129,21 +129,21 @@
 		{	
 			"id": 18,
 			"type": "single",
-			"quote": "(to xz) Are you competing for cuteness? Then you've won~",
+			"quote": "dd (to gg): Are you competing for cuteness? Then you've won~",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 19,
 			"type": "single",
-			"quote": "(to wyb) No worries WYB, the future is long",
+			"quote": "gg (to dd): No worries WYB, the future is long",
 			"who": "xz"
 		},
 
 		{	
 			"id": 20,
 			"type": "single",
-			"quote": "(about xz) An old cow eating tender grass\n[slang for older guy dating someone a lot younger]",
+			"quote": "dd (to gg): An old cow eating tender grass\n[slang for older guy dating someone a lot younger]",
 			"who": "wyb"
 		},
 
@@ -157,7 +157,7 @@
 		{	
 			"id": 22,
 			"type": "single",
-			"quote": "I hope my team will give me the chance to go skiing with Lao Wang",
+			"quote": "gg: I hope my team will give me the chance to go skiing with Lao Wang",
 			"who": "xz"
 		},
 
@@ -171,35 +171,35 @@
 		{	
 			"id": 24,
 			"type": "single",
-			"quote": "WYB!!! Does he have any flaws??? No!!!",
+			"quote": "gg: WYB!!! Does he have any flaws??? No!!!",
 			"who": "xz"
 		},
 
 		{	
 			"id": 25,
 			"type": "single",
-			"quote": "I'm just Lan Wangji's body dialogue",
+			"quote": "dd: I'm just Lan Wangji's body double",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 26,
 			"type": "single",
-			"quote": "(about CQL)\n真情实感。\nReal emotions and honest feelings.",
+			"quote": "dd (describing filming CQL): 真情实感。\nReal emotions and honest feelings.",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 26,
 			"type": "single",
-			"quote": "Xiao-laoshi's smile is very sweet, he's very similar to Wei Wuxian",
+			"quote": "dd: Xiao-laoshi's smile is very sweet, he's very similar to Wei Wuxian",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 27,
 			"type": "single",
-			"quote": "(describing wyb)\nVenus",
+			"quote": "gg (describing dd): Venus",
 			"who": "xz"
 		},
 
@@ -227,21 +227,21 @@
 		{	
 			"id": 31,
 			"type": "single",
-			"quote": "(to wyb) I wasn't looking at you! You're so attractive, I'm not even allowed to look at you?",
+			"quote": "gg (to dd): I wasn't looking at you! You're so attractive, I'm not even allowed to look at you?",
 			"who": "xz"
 		},
 
 		{	
 			"id": 32,
 			"type": "single",
-			"quote": "No matter how good I look, I still won't be as photogenic as Xiao-laoshi!",
+			"quote": "dd: No matter how good I look, I still won't be as photogenic as Xiao-laoshi!",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 33,
 			"type": "single",
-			"quote": "The first time we met was TTXS",
+			"quote": "dd: The first time we met was TTXS",
 			"who": "wyb"
 		},
 
@@ -255,21 +255,21 @@
 		{	
 			"id": 35,
 			"type": "single",
-			"quote": "wyb is a monster~ today he sent me 5 portraits from his photoshoot, and asked me if he was handsome or not",
+			"quote": "gg: wyb is a monster~ today he sent me 5 portraits from his photoshoot, and asked me if he was handsome or not",
 			"who": "xz"
 		},
 
 		{	
 			"id": 36,
 			"type": "single",
-			"quote": "Wei Wuxian~ Yiling Laozu~ Xiao Zhan!! Xiao Zhan!!! Zhan-ge~ Zhan-ge~ Zhan-ge!!! Xiao Zhan ah~~~",
+			"quote": "dd: Wei Wuxian~ Yiling Laozu~ Xiao Zhan!! Xiao Zhan!!! Zhan-ge~ Zhan-ge~ Zhan-ge!!! Xiao Zhan ah~~~",
 			"who": "wyb"
 		},
 
 		{	
 			"id": 37,
 			"type": "single",
-			"quote": "(pouting exaggeratedly) I didn't see Wangji for the entire day today",
+			"quote": "gg (pouting exaggeratedly): I didn't see Wangji for the entire day today",
 			"who": "xz"
 		},
 

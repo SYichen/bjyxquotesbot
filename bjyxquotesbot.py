@@ -28,14 +28,9 @@ def getRandomQuote():
 def createTweet():
 	global previouslyPosted
 	quote = getRandomQuote()
-	if quote['type'] == "single":
-		tweet = """
-				{} -{}
-				""".format(quote['quote'], quote['who'])
-	if quote['type'] == "dialogue" or quote['type'] == "general":
-		tweet = """
-				{}
-				""".format(quote['quote'])
+	tweet = """
+			{}
+			""".format(quote['quote'])
 	if len(previouslyPosted) >24:
 		previouslyPosted = previouslyPosted[1:]
 	previouslyPosted.append(quote['id'])
