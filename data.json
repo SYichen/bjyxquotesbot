@@ -178,7 +178,7 @@
 		{	
 			"id": 25,
 			"type": "single",
-			"quote": "I'm just Lan Wangji's body double",
+			"quote": "I'm just Lan Wangji's body dialogue",
 			"who": "wyb"
 		},
 
@@ -275,63 +275,63 @@
 
 		{	
 			"id": 38,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd (hitting table as he speaks): Please! Give! Me! A! Chance!\ngg (singing): Please give me a kiss~\ndd: What?\ngg (singing): Is it possible or not?\ndd: Of course not.\ndd: (hitting table) Please! Give! Me! A! Chance!\ngg (singing): A kiss upon my face~",
 			"who": ""
 		},
 
 		{	
 			"id": 39,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: That early? Going and returning the same day\ndd: Cool\ngg: Not cool at all\ndd: Very cool\ngg:Not cool at all\ndd:Super cool",
 			"who": ""
 		},
 
 		{	
 			"id": 40,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: You have hair stuck behind your mask\n(gg steps forward & leans in so dd can fix it for him)\ndd: Ok, not a problem anymore\ngg: I wasn't going to thank you. (beep)",
 			"who": ""
 		},
 
 		{
 			"id": 41,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(after confirming w/ dd he's going somewhere very early then returning the same day)\ngg (singing by himself): Love me, don't go~ If you say you don't love me~",
 			"who": ""
 		},
 
 		{
 			"id": 42,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: Who said it? You?\ngg: Was it Wei Wuxian? Was it Wei Wuxian who said 'everyday'?\nstaff: Lan Zhan said it.",
 			"who": ""
 		},
 
 		{
 			"id": 43,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(talking about wwx running back & forth between fights in yi city)\ngg: Like an idiot\ndd: Very cute! Super cute!\ngg (singing Avril Lavigne's Hello Kitty): Arigato gozaimas ka-ka-ka-kawaii~\ndd: Super cute! Isn't it cute? Running back and forth, isn't it super cute?",
 			"who": ""
 		},
 
 		{
 			"id": 44,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd (spreading fingers on gg's knee): Is it ticklish?\ngg (shaking his head): I don't feel anything. What do you mean?\ndd: Nothing\ngg (spreading fingers over dd's knee): Ticklish? Even through your clothes?\n(dd nods)",
 			"who": ""
 		},
 
 		{
 			"id": 45,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: Hurts. Don't massage (my neck) anymore, it hurts\ndd: If it hurts, don't let cold wind blow at you anymore\ngg: It hurts\ndd: If your stomach hurts, you really can't let cold wind blow at you, really. Really.",
 			"who": ""
 		},
 
 		{
 			"id": 46,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "Yang Xia (to dd): I'm never letting you drink again, you're bloated again today\ndd: Pff, no, I'm not bloated\ngg: Wait... (to Yang Xia) what did you just say? (disbelief) you all went to eat good food yesterday? (fake anger) Are you all even human? I'm very angry, I'm leaving",
 			"who": ""
 		},
@@ -345,273 +345,273 @@
 
 		{
 			"id": 48,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(rehearsing scene where wwx hides behind lwj from a dog)\ngg: Lan Zhan, what are you doing? (pause) Your lips are so shiny\ndd: Yours are too, okay",
 			"who": ""
 		},
 
 		{
 			"id": 49,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(gg playing with water leaking out of Suibian)\ndd: Don't aim at my face\n(gg continues to aim stream at dd's face)\ndd: Why is your sword so good at peeing? (turns around)\ngg: Lan Zhan, look! Lan Zhan! Look!",
 			"who": ""
 		},
 
 		{
 			"id": 50,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(gg singing RV's 'Bad Boy' and twirling his flute)\ngg: You're so indifferent, Lan Zhan\n(dd shrugs)\ngg: If you're like this, I don't want to be forward anymore, it's tiring\ndd: Too bad (censored) it's your style to be forward\ngg: You! Such a tsundere\ndd: I'm not",
 			"who": ""
 		},
 
 		{
 			"id": 51,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(dd complains about itchy mosquito bites on his face)\ngg (to his assistant): Get the qingcao gao, please\ngg (to dd): It's a little (indistinct), it's meant to soothe itchiness [...] apply a little",
 			"who": ""
 		},
 
 		{
 			"id": 52,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg (to dd): So cold. (bites lip) My arm is already numb\n(dd reaches out his hand)\ngg (shakes head): It's okay",
 			"who": ""
 		},
 
 		{
 			"id": 53,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd (to gg): Woah, so graceful. Don't you like it? So graceful. Woah, so ethereal, so ethereal. Ethereal.\ngg: This clearly doesn't suit me\ndd: Why isn't it suitable?\ngg: Because it doesn't suit WWX\ndd: I'm not talking about WWX, I'm talking about XZ~",
 			"who": ""
 		},
 
 		{
 			"id": 54,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: So many mosquitoes, super big!\ngg: Mianhae mianhae hajima~\ndd: I'll show you later\ngg: No need\ndd: Show you, show you\ngg: No need\ndd: Show you\ngg: No\ndd: Show you\ngg: I said no need! YAH!\ndd: SHOW YOU!\ngg: YAH!",
 			"who": ""
 		},
 		{
 			"id": 55,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: Lao Wang, I know I was wrong\ndd: If so then eat a bowl of wontons, eat two bowls\ngg: I can't finish two bowls\ndd: Then tomorrow and, today and tomorrow, tomorrow and the day after, eat two\ngg: Okay okay, I'll eat\ndd: Really? (smiles/laughs)\ngg: Really",
 			"who": ""
 		},
 		{
 			"id": 56,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(while apologizing to dd for accidentally smacking him on the face, after agreeing to eat two bowls of wontons)\ngg: I'll do whatever you want me to, okay, Lao Wang?\ndd (laughing): I've profited!\ngg: Profited? You (hits dd's arm) shouldn't say this kind of nonsense",
 			"who": ""
 		},
 		{
 			"id": 57,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(lotus pond boat scene, gg in dd's lap, dd's sleeve hit gg's face)\ngg (sits up): Give you some space\ndd: Give me some space\ngg (singing) Give you some [space]~ Please give me a little more time~ A little more space~",
 			"who": ""
 		},
 		{
 			"id": 58,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: Yeah, for your mom and for your sister and for your girlfriend. Girl-girl friend\ngg: Just girl friend\ndd: Yeah, right now maybe just girl friend but\ngg: Using your [bad English], what are you saying?\ndd: You know, maybe next time, next time!",
 			"who": ""
 		},
 		{
 			"id": 59,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(WeChat for/four men)\ndd: No, not everyday\ngg: Wow, every day\ndd: No\ndd: Everyday is for work, every day is for work\ngg: Me too\ndd: No, because\n(gg singing Rihanna's 'Work')\ndd: I just\ndd (softly): Listen\ngg: Just friend okay? You have any friends? (curses in Korean)",
 			"who": ""
 		},
 		{
 			"id": 60,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: You always with, WeChat for/four... for/four... for/four men\ndd: No\ngg: For what?\ndd: For... for work! Work\ngg: Work? Work?\ndd: Mm, yeah\ngg: LIAR! Liar~ Liar~ Ok, ok, I, me too",
 			"who": ""
 		},
 		{
 			"id": 61,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(WeChat for/four men)\ndd: Friend\ngg: Friend\ndd: Girl\ngg: No, no, no\ndd: Sister\ngg: Work okay?\ndd: Sister... for, for, for friend, for girl friend\ngg: wyb is liar\ndd: For\ngg: You speak liar\ndd: girl friend. for sister, for, yeah\ngg: For my mom",
 			"who": ""
 		},
 		{
 			"id": 62,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: Princess carry, carry me\ndd: No problem\ngg: Carry me, carry me out of the water then start walking\n[...]\ngg: In a bit, suggest it to the director. Princess carry me up\ndd: No problem\ngg: Let's try it out on this side\ndd: Boyfriend strength, no problem",
 			"who": ""
 		},
 		{
 			"id": 63,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(dd agreeing to princess carry gg out of the water, gg pulling him to the side to try it out)\ndd: I have enough boyfriend strength\ngg: Boyfriend strength, my ass\ngg: This is a brotherly... drama. What are you thinking of, WYB? What are you thinking of?",
 			"who": ""
 		},
 		{
 			"id": 64,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: There's still 7 days, 7 days\ngg: 7 days before you go?\ndd: Should be\ngg: How long will you be gone?\ndd: 3 days\ngg: (censored)\ndd: Because it's rushed\ngg: 3 days?\ndd: 2 days? 3 days? Something like that",
 			"who": ""
 		},
 		{
 			"id": 65,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(after confirming dd would be gone for 2-3 days)\ngg: gg: Ai~ (censored) Please don't go, I'm begging you~ If you leave, we can't finish filming. When you leave, they'll work me to death",
 			"who": ""
 		},
 		{
 			"id": 66,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: Sunbae, sunbae\ndd: He cursed at me\ngg: Sunbae\ndd: Cursed at me\ngg: Sunbae\ndd (mouths): He cursed at me\ngg: joesonghamnida, joesonghamnida, sunbae, joesonghamnida\ndd: He cursed at me\ngg: joesonghamnida, sunbae\ndd: Cursed at me\ngg: gawenchana? gwaenchanayo, sunbae?",
 			"who": ""
 		},
 
 		{
 			"id": 67,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(dd holding Bichen up to gg's neck while sitting on stairs)\ngg: I'm tired today, I still need to film the first episode tomorrow\ndd: Okay, I'll rely on you tomorrow Zhan-ge",
 			"who": ""
 		},
 
 		{
 			"id": 68,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(gg singing 'Only Love High Heels' [ref to dd wearing insoles to be taller than gg])\ndd: Say you were wrong\ngg: I was wrong\ndd: Louder\ngg: I was wrong\ndd: Louder\ngg: I was wrong",
 			"who": ""
 		},
 
 		{
 			"id": 70,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(boat bts)\ngg: It's too hot, I'm sweaty\ndd: It's not\ngg: Your clothes are thin\ndd: Ge, your clothes are too dark and thick\ngg: Does your heart ache for me?\ndd: My heart aches for you a lot, ge ;)\ngg: This is how WYB treats me every day on set",
 			"who": ""
 		},
 
 		{
 			"id": 71,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: Let me off for today\ndd: Be nicer to me, ok? Be nicer to me, be nicer to me\ngg: Shut up",
 			"who": ""
 		},
 
 		{
 			"id": 72,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg (pointing to dd): He cursed at me. Him, not me.\ndd: The mic didn't even pick it up, stop pretending\ngg: The huge camera doesn't lie\ndd: I said 'LOVE YOU'\ngg: LOVE YOU\ndd: Yeah~\ngg: You should have just cursed at me",
 			"who": ""
 		},
 		{
 			"id": 73,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(gg sitting on rooftop for a scene)\ndd: Zhan-ge, do you know how dangerous it was for you just now? You could've fallen down. Don't move around so carelessly, okay?",
 			"who": ""
 		},
 		{
 			"id": 74,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(dd didn't have his insoled shoes)\ndd: I'll get on my tiptoes then\ngg: I'll 'ba' [spread legs out wide] a little\ndd: Thank you, thank you ge~\ngg: It's what I should do, Yibo-ge~\ngg Lao Wang~\ndd: Lao Xiao~\ngg: LAO WANG!\ndd: LAO XIAO!\ngg: LAO WANG!!!\ndd: LAO XIAO!!!",
 			"who": ""
 		},
 		{
 			"id": 75,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(talking abt interview where gg praised dd)\ngg: So did I overly praise you again?\ndd: What are you doing, praising me for no reason?\ngg: They asked me! If they didn't ask, why would I praise you, do I have a problem?\ngg: Ah, I was sincere about what I said\ndd (grins): Really?",
 			"who": ""
 		},
 		{
 			"id": 76,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(about the way he praised dd in an interview)\ngg: It's true, it's the truth, I think you're pretty good. Really very good, I really think you're very good\ndd: I also think you're very good~ \n(bro handshake)",
 			"who": ""
 		},
 		{
 			"id": 77,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd (to gg, about rainbow-farting the same way in interviews): 心有灵犀。Our hearts are in sync.",
 			"who": ""
 		},
 		{
 			"id": 78,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd (to gg): You're super photogenic okay?\ndd (to staff): He's SUPER photogenic, he's the most photogenic\ndd (to gg): You're the most photogenic.",
 			"who": ""
 		},
 		{
 			"id": 79,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: That young actor that Zhan-ge worked with before...\ngg (panicked face): I'm not close to him",
 			"who": ""
 		},
 		{
 			"id": 80,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(gg hurt his foot in the river and dd didn't realize at first)\ngg: Why did you have to laugh?\ndd: I'm sorry. I'm sorry Zhan-ge. Zhan-ge...",
 			"who": ""
 		},
 		{
 			"id": 81,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: Oh we can go take, take a bath\ngg: (indistinct)\ndd: Hm?\ngg: Yes, we can bathe (indistinct)\nstaff: You can plan a hot bath\ndd: Ge, how about it?",
 			"who": ""
 		},
 		{
 			"id": 82,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(dd putting his hand around gg's throat (TWICE) right in front of EVERYONE's hotpot)",
 			"who": ""
 		},
 		{
 			"id": 84,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(in the Xuanwu Cave, gg in a puffy jacket)\ngg: wyb, be a little kinder to me, I'm already this miserable\ndd: Take a picture\ngg: I'm already this miserable\ndd: Want to take a picture?\ngg: Take a picture, my ass\ndd: You look so sexy",
 			"who": ""
 		},
 		{
 			"id": 85,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "gg: My bangs can breathe [are wispy]\ndd (mouths): I really like it",
 			"who": ""
 		},
 		{
 			"id": 86,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(rehearsing scene in Xuanwu Cave where gg is sitting/leaning against the wall)\ndd (leaning forward): Is this your foot?\ngg: I'm beggig you, Yibo. Yibo-ge.",
 			"who": ""
 		},
 		{
 			"id": 87,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: You're a grown up but still let yourself get hungry?\ngg: Sorry\ndd: You're a 91-liner, how can you still let yourself get hungry?\ngg: :(",
 			"who": ""
 		},
 
 		{
 			"id": 88,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(watching the take of Wangxian hilltop farewell)\ngg: Let me see how he reminisced about me\ngg: Wah~ This beautiful? It really looks good\ngg: He got thinner. After he came back from Changsha he got really really thin.",
 			"who": ""
 		},
 		{
 			"id": 89,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(dd asking gg about how he looked on the hilltop farewell scene, even though gg is holding something bug-like to his face)\ndd: Ai! Yah yah yah! Was it okay? Was it okay? Was it okay? I'm asking you\ngg: Super handsome~",
 			"who": ""
 		},
 		{
 			"id": 90,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(eating dd's bday cake)\ndd: You dare to eat that much Zhan-ge?\ngg: Aren't we running tomorrow?\ndd: We're really running?\ngg: Ah? You're not running?\ndd: I will I will I will I will I will",
 			"who": ""
 		},
 
 		{
 			"id": 91,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "dd: Ok ok ok, 8:30, 8:30!\ngg: I think I'll run at 9\ndd: But I :'( You won't run with me at 8:30?\ngg: Ok ok let's run let's run\ndd: Which is it!\ngg: Let me finish eating this taro (cake) first, it's really good\ndd: Will you run at 8:30 or not?",
 			"who": ""
 		},
 
 		{
 			"id": 91,
-			"type": "double",
+			"type": "dialogue",
 			"quote": "(gg got distracted by taro cake)\ndd: Are we running at 8:30 or not? Zhan-ge. Lao Xiao~!\ngg: Ey!\ndd (Chongqing dialect): Are you running or not?\ngg: I'll run, I'll call you tomorrow morning?\ndd: Will you run at 8:30~?\ngg: I will I will I will!",
 			"who": ""
 		}
