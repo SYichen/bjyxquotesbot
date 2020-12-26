@@ -1,7 +1,7 @@
 import json
 import random
 import tweepy
-import credentials
+#import credentials
 import time
 import sys
 from os import environ
