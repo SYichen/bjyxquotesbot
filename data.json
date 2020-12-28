@@ -454,7 +454,7 @@
 		{
 			"id": 65,
 			"type": "dialogue",
-			"quote": "(after confirming dd would be gone for 2-3 days)\ngg: gg: Ai~ (censored) Please don't go, I'm begging you~ If you leave, we can't finish filming. When you leave, they'll work me to death",
+			"quote": "(after confirming dd would be gone for 2-3 days)\ngg: Ai~ (censored) Please don't go, I'm begging you~ If you leave, we can't finish filming. When you leave, they'll work me to death",
 			"who": ""
 		},
 		{
@@ -573,7 +573,7 @@
 		{
 			"id": 86,
 			"type": "dialogue",
-			"quote": "(rehearsing scene in Xuanwu Cave where gg is sitting/leaning against the wall)\ndd (leaning forward): Is this your foot?\ngg: I'm beggig you, Yibo. Yibo-ge.",
+			"quote": "(rehearsing scene in Xuanwu Cave where gg is sitting/leaning against the wall)\ndd (leaning forward): Is this your foot?\ngg: I'm begging you, Yibo. Yibo-ge.",
 			"who": ""
 		},
 		{
@@ -610,10 +610,95 @@
 		},
 
 		{
-			"id": 91,
+			"id": 92,
 			"type": "dialogue",
 			"quote": "(gg got distracted by taro cake)\ndd: Are we running at 8:30 or not? Zhan-ge. Lao Xiao~!\ngg: Ey!\ndd (Chongqing dialect): Are you running or not?\ngg: I'll run, I'll call you tomorrow morning?\ndd: Will you run at 8:30~?\ngg: I will I will I will!",
 			"who": ""
+		},
+
+		{
+			"id": 93,
+			"type": "general",
+			"quote": "青山不改，绿水长流, 后会有期。\nThe green mountains are unchanging, the clear water everflowing, we will meet again.",
+			"who": ""
+		},
+
+		{
+			"id": 94,
+			"type": "general",
+			"quote": "我深爱着一颗寂寞的星星。\nI'm deeply in love with a lonely star.\nhttps://youtu.be/cIIYV23FPos",
+			"who": ""
+		},
+
+		{
+			"id": 95,
+			"type": "general",
+			"quote": "唇下痣 心上人。A mole beneath the lips, a person upon the heart.",
+			"who": ""
+		},
+
+		{
+			"id": 96,
+			"type": "dialogue",
+			"quote": "gg: [wwx fight scenes] must be handsome, handsome, handsome, or else I'll look too weak. He [dd] is too handsome!\ndirector: He is handsome! Have you seen the recordings?\ngg: All I do is talk. He [dd] sends me his monitor clips everyday! I'm going crazy! I'm going to block him",
+			"who": ""
+		},
+
+		{
+			"id": 97,
+			"type": "dialogue",
+			"quote": "(in Xuanwu cave)\ngg: (curses at dd)\ndd: Wow~ air this air this air this, Tencent VIP air this\ngg: Haha, only VIP members can watch?\nstaff: We're all VIP",
+			"who": ""
+		},
+
+		{
+			"id": 98,
+			"type": "dialogue",
+			"quote": "gg (to camera): Look at what WYB has reduced me to, he bullies me on set everyday, I'm going crazy\ndd: I don't bully him everyday, he curses at me everyday\ngg: I curse at you everyday or you curse at me everyday?\ndd: He curses at me everyday\ngg: He bullies me everyday",
+			"who": ""
+		},
+
+		{
+			"id": 99,
+			"type": "dialogue",
+			"quote": "gg: He bullies me everyday\ndd: He takes advantage of being older than me and curses at me everyday, I don't dare to curse at him\ngg: It's clearly you cursing at me everyday okay??\ndd: You curse at me everyday\ngg: Are you even human? WYB be a little kinder",
+			"who": ""
+		},
+
+		{
+			"id": 99,
+			"type": "dialogue",
+			"quote": "dd: Just because he's 6 yrs older, he bullies me everyday\ngg: You also know that I'm 6 yrs older? Now you know I'm 6 yrs older? You didn't know it when you cursed at me? You didn't know it when you hit me?\ndd: How could I dare to curse at you, gege~",
+			"who": ""
+		},
+
+		{
+			"id": 100,
+			"type": "dialogue",
+			"quote": "gg (about his belt): It's so tight\ndd: The feeling of bondage\ngg: Dirty~ dirty~\ndd: Does it feel good? A new experience right?\ngg: It's opened the doors wide to a new world",
+			"who": ""
+		},
+
+		{
+			"id": 101,
+			"type": "dialogue",
+			"quote": "dd: The feeling of bondage, a new experience\ngg: Do you want to play?\ndd: Play what? \ngg: Do you want to experience this kind of feeling?\ndd: Do you really want to experience it?\ngg: I don't understand what you're saying\ndd: I don't understand what you're saying either",
+			"who": ""
+		},
+
+		{
+			"id": 102,
+			"type": "dialogue",
+			"quote": "dd: Sorry, I forgot, you really look like a 97-liner, not a 91-liner\ngg: WYB, are you even human?\ndd: I'M PRAISING YOU\ngg: It's fine, thank you\ndd: I really think you're like a 97, not a 91\ngg: That's enough WYB, that's enough WYB\ndd: I don't think anyone thinks you're a 91",
+			"who": ""
+		},
+
+		{
+			"id": 103,
+			"type": "dialogue",
+			"quote": "(puns on 'core' sounding the same as 'balls')\ngg: So right now I still have another one right?\ndd: Right\ngg: So I also still can (fuck)\ndd: Yeah, it just won't be as hard\ngg: So JC has three\ndd: No he lost one! So now he has two",
+			"who": ""
 		}
+
 	]
 }
