@@ -6,6 +6,8 @@ import time
 import sys
 from os import environ
 
+random.seed(8051005)
+
 consumer_key = environ['API_KEY']
 consumer_secret_key = environ['API_SECRET_KEY']
 access_token = environ['ACCESS_TOKEN']
@@ -31,8 +33,10 @@ def createTweet():
 	tweet = """
 			{}
 			""".format(quote['quote'])
-	if len(previouslyPosted) >24:
+	if len(previouslyPosted) >48:
 		previouslyPosted = previouslyPosted[1:]
+	print("previouslyPosted:", previouslyPosted)
+	print("adding:", quote['id'])
 	previouslyPosted.append(quote['id'])
 	return tweet
 
