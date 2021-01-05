@@ -6,14 +6,12 @@ import time
 import sys
 from os import environ
 
-random.seed(8051005)
-
 consumer_key = environ['API_KEY']
 consumer_secret_key = environ['API_SECRET_KEY']
 access_token = environ['ACCESS_TOKEN']
 access_token_secret = environ['ACCESS_TOKEN_SECRET']
 
-previouslyPosted = []
+previouslyPosted = [96, 4, 80, 76, 64, 94, 47, 1, 29, 7, 81, 11, 90, 53, 12, 63, 36, 19, 58]
 
 def getRandomQuote():
 	with open('data.json') as f:
@@ -33,7 +31,7 @@ def createTweet():
 	tweet = """
 			{}
 			""".format(quote['quote'])
-	if len(previouslyPosted) >48:
+	if len(previouslyPosted) > 48:
 		previouslyPosted = previouslyPosted[1:]
 	print("previouslyPosted:", previouslyPosted)
 	print("adding:", quote['id'])
